@@ -1,5 +1,5 @@
 name: Frigate (Full Access) Beta
-version: 0.17.0-beta1-lkadar2015
+version: c950a6c-amd64
 breaking_versions:
   - 0.17.0-beta1
   - 0.16.0
