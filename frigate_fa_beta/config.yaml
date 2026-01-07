@@ -1,5 +1,5 @@
 name: Frigate (Full Access) Beta
-version: c950a6c-amd64
+version: 08bba64-amd64
 breaking_versions:
   - 0.17.0-beta1
   - 0.16.0
@@ -49,7 +49,6 @@ services:
   - "mqtt:want"
 arch:
   - amd64
-  - aarch64
 map:
   - "media:rw"
   - "ssl"
