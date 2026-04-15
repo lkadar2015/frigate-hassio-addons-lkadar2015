@@ -1,5 +1,5 @@
 name: Frigate (Full Access) Beta
-version: 0.17.1-lkadar2015.001
+version: 0.17.1-lkadar2015.002
 breaking_versions:
   - 0.17.0-beta1
   - 0.16.0
